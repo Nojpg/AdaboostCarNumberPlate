@@ -1,8 +1,8 @@
-#A project of russian license plate detection with python, opencv and Adaboost algorithm
+# A project of russian license plate detection with python, opencv and Adaboost algorithm
 This project is an implementation of licence plate detection with opencv and Adaboost
 
 
-###Usage:
+### Usage:
     
 first of all install python:
 
@@ -24,11 +24,11 @@ for resize img if needed, read --help for flags:
     
     python3 resizer.py
 
-###Requirements:
+### Requirements:
 
     python3-tkinter
     
-###Results:
+### Results:
 Here is presentation of **current** result:
 
 ![images](data/git_images/1.jpg)
